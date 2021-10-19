@@ -1,0 +1,5 @@
+﻿  Graphs.cpp
+C:\Users\matty\source\repos\Hatcher_CSCI115_Project\Hatcher_CSCI115_Project\Graphs.cpp(105,13): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\matty\source\repos\Hatcher_CSCI115_Project\Hatcher_CSCI115_Project\Graphs.cpp(114,12): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\matty\source\repos\Hatcher_CSCI115_Project\Hatcher_CSCI115_Project\Graphs.cpp(498,24): warning C4018: '<': signed/unsigned mismatch
+  Hatcher_CSCI115_Project.vcxproj -> C:\Users\matty\source\repos\Hatcher_CSCI115_Project\Debug\Hatcher_CSCI115_Project.exe
